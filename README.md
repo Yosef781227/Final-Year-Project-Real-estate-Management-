@@ -13,9 +13,7 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ladunjexa/Yariga-Realestate-Dashboard" alt="contributors" />
-  </a>
+ 
   <a href="">
     <img src="https://img.shields.io/github/last-commit/ladunjexa/Yariga-Realestate-Dashboard" alt="last update" />
   </a>
@@ -28,9 +26,7 @@
   <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/issues/">
     <img src="https://img.shields.io/github/issues/ladunjexa/Yariga-Realestate-Dashboard" alt="open issues" />
   </a>
-  <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ladunjexa/Yariga-Realestate-Dashboard.svg" alt="license" />
-  </a>
+ 
 </p>
    
  <h4>
@@ -62,11 +58,7 @@
 - [Getting Started](#toolbox-getting-started)
   * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
-- [Media](#milky_way-media)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+
 
 </details>  
 
