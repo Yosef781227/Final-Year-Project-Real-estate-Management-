@@ -29,15 +29,7 @@
  
 </p>
    
- <h4>
-    <a href="https://mern-dashboard-app.vercel.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/issues/">Request Feature</a>
-  </h4>
+ 
 </div>
 
 <br />
