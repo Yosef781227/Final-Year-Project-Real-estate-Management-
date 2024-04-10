@@ -366,45 +366,21 @@ Go to `client` folder and execute the following command in order to run our fron
 
 ![Agent](readme_assets/agentpro.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Contributing -->
-## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Yariga-Realestate-Dashboard" />
-</a>
 
-Contributions are always welcome!
 
-See [`contributing.md`](https://contributing.md/) for ways to get started.
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- License -->
-## :warning: License
-
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Yariga-Realestate-Dashboard/blob/main/LICENSE) for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
 
-Project Link: [https://github.com/ladunjexa/Yariga-Realestate-Dashboard](https://github.com/ladunjexa/Yariga-Realestate-Dashboard)
+Linkdin : (https://www.linkedin.com/in/yosefdegarege/)
+gitHub : (https://github.com/Yosef781227)
+Project Link: [https://github.com/Yosef781227/Final-Year-Project-Real-estate-Management-?tab=readme-ov-file](https://github.com/Yosef781227/Final-Year-Project-Real-estate-Management-?tab=readme-ov-file)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
