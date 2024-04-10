@@ -12,22 +12,6 @@
   </p>
   
 <!-- Badges -->
-<p>
- 
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/ladunjexa/Yariga-Realestate-Dashboard" alt="last update" />
-  </a>
-  <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/network/members">
-    <img src="https://img.shields.io/github/forks/ladunjexa/Yariga-Realestate-Dashboard" alt="forks" />
-  </a>
-  <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/stargazers">
-    <img src="https://img.shields.io/github/stars/ladunjexa/Yariga-Realestate-Dashboard" alt="stars" />
-  </a>
-  <a href="https://github.com/ladunjexa/Yariga-Realestate-Dashboard/issues/">
-    <img src="https://img.shields.io/github/issues/ladunjexa/Yariga-Realestate-Dashboard" alt="open issues" />
-  </a>
- 
-</p>
    
  
 </div>
